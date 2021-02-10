@@ -27,7 +27,7 @@ figcaption {
   background: green;
   display:grid;
  justify-content:center;
- /*float: left;*/
+ float: left;
 }
 
 
