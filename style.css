@@ -21,7 +21,7 @@ figcaption {
 
 .nav a {
   padding: 10px;
-  padding-left: 10px;
+  /*padding-left: 10px;*/
   background: green;
   display:inline-block;
   text-align: center;
