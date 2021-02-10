@@ -25,4 +25,5 @@ figcaption {
   background: green;
   display:inline-block;
   text-align: center;
+  position: relative;
 }
