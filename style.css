@@ -23,7 +23,7 @@ figcaption {
   text-align: center;
   display:inline-block;
   margin-left: 50px;
-  margin-right: inherit;
+  margin-right: 50px;
   padding-right: 10px;
   padding-left: 10px;
   background: green;
