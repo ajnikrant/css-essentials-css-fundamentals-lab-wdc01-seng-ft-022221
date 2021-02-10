@@ -27,6 +27,7 @@ figcaption {
   background: green;
   /*display:inline-block;*/
  /*justify-content:center;*/
+ float: left;
   width: 100%;
 }
 
