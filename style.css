@@ -26,6 +26,7 @@ figcaption {
   padding-left: 10px;
   background: green;
   justify-content: center;
+  position: absolute;
 }
 
 
