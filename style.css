@@ -25,4 +25,5 @@ nav a {
   padding-left: 10px;
   background: green;
   display: inline-block;
+  list-style-type: none;
 }
