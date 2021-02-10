@@ -37,7 +37,7 @@ figcaption {
 
 #details div {
   text-align: center;
-  width: auto;
+  width: inherit;
   float: left;
   background: red;
 }
