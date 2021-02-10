@@ -19,7 +19,7 @@ figcaption {
 }
 
 
-.nav a {
+a.nav {
   text-align: center;
   display:inline-block;
   padding-right: 10px;
