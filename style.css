@@ -20,9 +20,9 @@ figcaption {
 
 
 .nav a {
-  padding-right: 10px;
+  padding: 10px;
   padding-left: 10px;
   background: green;
   display:inline-block;
-    text-align: center;
+  text-align: center;
 }
